@@ -1,0 +1,6 @@
+[submodule "thirdparty/workflow"]
+	path = thirdparty/workflow
+	url = /home/xiehaitao/dev/opensource/network/workflow/
+[submodule "thirdparty/workflow_annotation"]
+	path = thirdparty/workflow_annotation
+	url = https://github.com/chanchann/workflow_annotation.git
